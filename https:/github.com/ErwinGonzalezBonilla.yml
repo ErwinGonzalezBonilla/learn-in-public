@@ -1,0 +1,102 @@
+template: "online-cv"
+skin: "blue"
+
+basic_info:
+  first_name: Erwin Alexander
+  last_name: Gonzalez Bonilla
+  motto: I'm a socio-cultural project manager and a full stack developer in progress
+  focus: Full Stack Developer
+  summary: |
+    I’m currently a Full Stack web development student at 4Geeks Academy, combining my background in socio-cultural management with my growing skills in web development. I graduated as a Project Manager from the Central University of Venezuela, and have worked at Fundamusical - the National System of Youth and Children’s Orchestras of Venezuela. Additionally, I’m a trumpet player with studies in Arts, Cultural Management, and Music.
+
+    I am now focused on enhancing my programming skills and building impactful web projects, while continuing to manage cultural projects.
+
+  avatar: 
+  email: alexcultural@gmail.com
+  phone: "647578455"
+  website: https://github.com/ErwinGonzalezBonilla
+  linkedin: alexcultural
+  github: ErwinGonzalezBonilla
+  twitter: ""
+  stack-overflow: ""
+
+  languages:
+    - idiom: Spanish
+      level: Native
+    - idiom: English
+      level: in progress
+
+  interests:
+    - item: Web Development
+    - item: Music
+    - item: Cultural Projects
+    - item: Trumpet Playing
+
+education:
+  - degree: Full Stack Web Development (current)
+    university: 4Geeks Academy
+    university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+    time: 2023 - present
+    details: |
+      Currently learning full stack web development, focusing on technologies like HTML, CSS, JavaScript, React, Node.js, and databases.
+        - Developing a variety of personal projects to enhance my skills.
+        - Collaborating with peers on open-source projects.
+
+  - degree: Bachelor's in Arts, Major in Socio-Cultural Management
+    university: Central University of Venezuela
+    university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+    time: 2009 - 2014
+    details: |
+      Focus on cultural management, art sociology, and community project development.
+        - Gained experience in leading cultural and artistic initiatives.
+        - Worked on projects that combined community engagement with art.
+
+  - degree: Music Studies
+    university: Central University of Venezuela
+    university_logo: 
+    time: 2007 - 2012
+    details: |
+      Specialized in trumpet playing and musical training in symphonic and academic settings.
+        - Trumpet player in youth orchestras.
+        - Participated in international music festivals and concerts.
+
+experiences:
+  - role: Cultural Project Coordinator
+    time: 2004 - 2017
+    company: Fundamusical (National System of Orchestras of Venezuela)
+    company_logo: 
+    details: |
+      Coordinated and managed cultural, educational, and musical programs for children and youth as part of the National Youth Orchestras System.
+        - Led community-based projects focused on cultural and artistic education.
+        - Organized events, festivals, and workshops.
+
+projects:
+  intro: >
+    
+
+  assignments:
+    - title: Virtual Orchestras System
+      project_logo: 
+      link: "#"
+      tagline: 
+    - title: Personal Website (under construction)
+      link: https://github.com/ErwinGonzalezBonilla
+      tagline: 
+
+skills:
+  toolset:
+    - name: HTML5 & CSS3
+      level: 70%
+    - name: JavaScript
+      level: 60%
+    - name: React.js
+      level: 50%
+    - name: Git & GitHub
+      level: 70%
+    - name: Node.js
+      level: 50%
+    - name: Project Management
+      level: 90%
+    - name: Trumpet Playing
+      level: 95%
+
